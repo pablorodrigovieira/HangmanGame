@@ -1,0 +1,11 @@
+10
+exercise
+foundation
+information
+system
+web
+design
+database
+coding
+javascript
+hangman
